@@ -5,6 +5,15 @@
 
 ---
 
+## 🌐 0. Môi trường Demo trực tuyến (Live Demo)
+
+- **Đường dẫn Demo:** [https://powercapital-hk.space/](https://powercapital-hk.space/)
+- **Tài khoản quản trị (Admin):**
+  - **Email:** `admin@ddh.com`
+  - **Mật khẩu:** `12345678`
+
+---
+
 ## 👥 1. Thành viên nhóm dự án
 
 | STT | Họ và tên        | MSSV        | Vai trò        | Nhiệm vụ chính                                      |
